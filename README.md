@@ -11,6 +11,8 @@ Just *less* than nvidia-smi?
 
 NOTE: This works with NVIDIA Graphics Devices only, no AMD support as of now. Contributions are welcome!
 
+> For a web based dashboard on top of gpustat checkout [`gpuview`](https://github.com/fgaim/gpuview).
+
 Usage
 -----
 
